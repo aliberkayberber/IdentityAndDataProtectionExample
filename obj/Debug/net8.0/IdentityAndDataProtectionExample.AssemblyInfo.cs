@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IdentityAndDataProtectionExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b5074bf357c78e1b5b95cb46ceeef58b2c426f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("IdentityAndDataProtectionExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IdentityAndDataProtectionExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
